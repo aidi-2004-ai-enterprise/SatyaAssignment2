@@ -54,10 +54,10 @@ We performed 4 load tests on the deployed `penguin-api` Cloud Run service:
 
 ### **6. Success Criteria Check**
 
-✅ Tests completed without crashing
-✅ Bottlenecks identified and explained
-✅ Recommendations provided for improvement
-✅ Cloud Run sustained high throughput and low latency under expected and sudden load
+ Tests completed without crashing
+ Bottlenecks identified and explained
+ Recommendations provided for improvement
+ Cloud Run sustained high throughput and low latency under expected and sudden load
 
 ---
 
